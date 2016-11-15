@@ -1,0 +1,11 @@
+A Fuzzy Logic Approach to Computer Software Source Code Authorship Analysis.
+
+* Use the subjective nature of the elements of authorship, like source comments.
+  ** Idea is that the individual will have characteristics that differentiate his product from others.
+* Overcomes small datasets that cannot be utilized for Author discrimination or similarity detection.
+* Constructs Author profile - size, structure, layout, expression, negate standard way to naming variables.
+* Fuzzyvar measures - Braces, indentation, identifiers, utility variables, spelling errors, comments for code.
+* Correlate fuzzy metrics, this will show similarity.
+
+
+Plagiarism in natural and programming languages: an overview of current tools and technologies.
