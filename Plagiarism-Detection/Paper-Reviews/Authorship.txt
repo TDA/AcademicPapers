@@ -9,3 +9,6 @@ A Fuzzy Logic Approach to Computer Software Source Code Authorship Analysis.
 
 
 Plagiarism in natural and programming languages: an overview of current tools and technologies.
+* Proving plagiarism is a hard thing, as even if its copied verbatim, we need proof.
+* So, instead of checking for the common stuff, check for common errors.
+
