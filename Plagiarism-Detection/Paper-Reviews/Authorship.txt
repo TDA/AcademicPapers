@@ -19,4 +19,17 @@ Plagiarism in natural and programming languages: an overview of current tools an
 
 
 Old and new challenges in automatic plagiarism detection
+* Does it feel single authored or multi authored?
+* Plagiarism detection =/= Authorship attribution
+* attribute counting, structure-based.
+
+
+Winnowing: Local Algorithms for Document Fingerprinting
+* Positional Independence
+
+
+Fuzzy-fingerprints for text-based information retrieval
+* Highly high-level description of a system, no implementation and no solid description of how to implement. no idea how this even got published, lol.
+
+
 
