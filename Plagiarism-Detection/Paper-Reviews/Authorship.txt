@@ -17,3 +17,6 @@ Plagiarism in natural and programming languages: an overview of current tools an
   ** map all synonyms/hyper/hyponyms to the base parent, like so: strncmp -> strcmp
 * Takes a look at the various approaches by different tools and their success rate.
 
+
+Old and new challenges in automatic plagiarism detection
+

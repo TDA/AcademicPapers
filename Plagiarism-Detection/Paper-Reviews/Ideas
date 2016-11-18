@@ -1,0 +1,3 @@
+Ideas:
+* Build a user profile based on previous levels
+* Make sure that semantic equivalence of commands is taken into account. e.g. vim, nano, emacs, less, cat when displaying data, and also the difference of more complex commands: fuser -k, ps aux | grep | kill
