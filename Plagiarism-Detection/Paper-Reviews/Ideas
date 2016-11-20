@@ -1,3 +1,11 @@
 Ideas:
 * Build a user profile based on previous levels
 * Make sure that semantic equivalence of commands is taken into account. e.g. vim, nano, emacs, less, cat when displaying data, and also the difference of more complex commands: fuser -k, ps aux | grep | kill
+
+
+Objectives:
+* Must be able to differentiate semantics of commands, and cluster them together if they achieve similar things without much difference.
+
+
+* Good to haves
+* Should be able to refine the granularity

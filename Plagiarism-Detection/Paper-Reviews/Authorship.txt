@@ -32,4 +32,13 @@ Fuzzy-fingerprints for text-based information retrieval
 * Highly high-level description of a system, no implementation and no solid description of how to implement. no idea how this even got published, lol.
 
 
+Plaggie: GNU-licensed source code plagiarism detection engine for Java exercises
+* Just a case study, no relevant data
+
+
+Computer-Based Plagiarism Detection Methods and Tools : An Overview
+* Mostly a pseudo-survey paper, not much to gather
+
+
+
 
