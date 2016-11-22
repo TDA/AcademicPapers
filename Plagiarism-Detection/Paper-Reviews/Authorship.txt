@@ -40,5 +40,10 @@ Computer-Based Plagiarism Detection Methods and Tools : An Overview
 * Mostly a pseudo-survey paper, not much to gather
 
 
+Intrinsic Plagiarism Detection Using Character n -gram Profiles
+* Instead of comparison with other files, use the inconsistencies in the file to locate plagiarism
+* Use sliding windows of text to compare n-grams with the entire document.
+* This will allow us to detect style changes.
+* Unsure how this will help in code --> Maybe detect if user changes their stylistic choices of editors, commands, etc. ?
 
 
