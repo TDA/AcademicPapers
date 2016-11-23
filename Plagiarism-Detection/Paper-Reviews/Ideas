@@ -7,11 +7,12 @@ Ideas:
 
 * Track movements across levels, are `x` users always moving through the levels in a pattern. Does `a` moving 1 level higher mean `b`, `c`, etc move too?
 
+* Command shuffling and Semantical command variation - Generate Testing datasets with automatic plagiarism generator?
 
 
 Objectives:
 * Must be able to differentiate semantics of commands, and cluster them together if they achieve similar things without much difference.
-* Must be able to perform both intrinsic and extrinsic plagiarism detection with enough data.
+* Must be able to perform both intrinsic and external plagiarism detection with enough data.
 
 
 Good to haves:
