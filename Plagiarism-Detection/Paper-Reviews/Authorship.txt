@@ -47,7 +47,13 @@ Intrinsic Plagiarism Detection Using Character n -gram Profiles
 * Unsure how this will help in code --> Maybe detect if user changes their stylistic choices of editors, commands, etc. ?
 
 
-Uncovering Plagiarism, Authorship and Social Software Misuse - Conference Proceedings
-Overview of the 1st International Competition on Plagiarism Detection
+Uncovering Plagiarism, Authorship and Social Software Misuse - Conference Proceedings (Huge one, splitting it into constituent papers)
+# Overview of the 1st International Competition on Plagiarism Detection
 * Very good case study of plagiarism, interesting read
 * Word shuffling and Semantical word variation
+
+
+Pattern of Plagiarism in Novice Students’ Generated Programs: An Experimental Approach.
+* This one actually interviewed students about the possible ways of plagiarism. :D
+* Converting basic data structures and syntax seems to be the most popular was for students to plagiarize.
+* OO concepts are relatively less prone to plagiarize.
