@@ -1,5 +1,4 @@
 A Fuzzy Logic Approach to Computer Software Source Code Authorship Analysis.
-
 * Use the subjective nature of the elements of authorship, like source comments.
   ** Idea is that the individual will have characteristics that differentiate his product from others.
 * Overcomes small datasets that cannot be utilized for Author discrimination or similarity detection.
@@ -25,7 +24,7 @@ Old and new challenges in automatic plagiarism detection
 
 
 Winnowing: Local Algorithms for Document Fingerprinting
-* Positional Independence
+* Positional Independence - Basically describes the ideas behind MOSS.
 
 
 Fuzzy-fingerprints for text-based information retrieval
@@ -56,4 +55,12 @@ Uncovering Plagiarism, Authorship and Social Software Misuse - Conference Procee
 Pattern of Plagiarism in Novice Students’ Generated Programs: An Experimental Approach.
 * This one actually interviewed students about the possible ways of plagiarism. :D
 * Converting basic data structures and syntax seems to be the most popular was for students to plagiarize.
-* OO concepts are relatively less prone to plagiarize.
+* OO concepts are relatively less prone to plagiarize => more advanced concepts are less likely to be plagiarized.
+* Students' original work is more oriented towards what the instructor taught, plagiarized code is likely to be similar to what was taught, but subtly different.
+* Describes 4 types of plagiarism:
+  ** Code obtained from a classmate:
+    *** Entire code obtained, changes made
+    *** Single method obtained, changes either made or not made
+  ** Code obtained externally
+    *** either a senior
+    *** or online
