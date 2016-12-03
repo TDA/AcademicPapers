@@ -1,6 +1,7 @@
 Ideas:
 * Build a user profile based on previous levels -- Intrinsic detection, first stage? If it mismatches way too much (threshold?), then compare with other student levels.
 * Maybe detect if user changes their stylistic choices of editors, commands, etc.
+* Tokenize the commands used, and run a nearest-neighbor search/bayes classifier to identify authors? This will allow us to start detecting plagiarism after `x` levels --> Is the (x+1)th level consistent with x previous levels?
 
 * Compare the commands used by different students and figure out similarities in the usage.
 * Make sure that semantic equivalence of commands is taken into account. e.g. vim, nano, emacs, less, cat when displaying data, and also the difference of more complex commands: fuser -k, ps aux | grep | kill

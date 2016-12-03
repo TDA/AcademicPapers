@@ -64,3 +64,17 @@ Pattern of Plagiarism in Novice Students’ Generated Programs: An Experimental 
   ** Code obtained externally
     *** either a senior
     *** or online
+* Interesting assumptions, like students who get 70 on assignment + fail on exam == suspicious. Not sure how much this can be true. What about students who cheat for extra credit and pass the exams too?
+* Sample set is too small, 10 pieces of code from 2 students.
+
+
+A Machine Learning Based Tool for Source Code Plagiarism Detection.
+* 3 different learning algorithms to cover multiple scenarios.
+  ** Naive Bayes Classifier -- Multinomial Bayes Classifier + Bernoulli Bayes Classifier
+  ** l-nearest neighbor algorithm
+    *** AdaBoost Meta-Learning Algorithm
+* Uses source code metrics like line length, spacing, indents, etc and measures similarity based on those.
+* Uses all three algorithms combined with AdaBoost to get 86.67% accuracy on classifying authors - impressive.
+* Take the source codes that were not classified accurately -- These are potentially overlapping/plagiarized
+
+
