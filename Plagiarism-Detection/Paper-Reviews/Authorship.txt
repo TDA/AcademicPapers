@@ -48,9 +48,16 @@ Intrinsic Plagiarism Detection Using Character n -gram Profiles
 
 Uncovering Plagiarism, Authorship and Social Software Misuse - Conference Proceedings (Huge one, splitting it into constituent papers)
 # Overview of the 1st International Competition on Plagiarism Detection
-* Very good case study of plagiarism, interesting read
-* Word shuffling and Semantical word variation
+  * Very good case study of plagiarism, interesting read
+  * Word shuffling and Semantical word variation
 
+Paper is split into two major sections:
+# External Plagiarism Detection
+##
+
+# Intrinsic Plagiarism Detection
+## Counter Plagiarism detection software and counter counter plagiarism detection methods
+  *
 
 Pattern of Plagiarism in Novice Students’ Generated Programs: An Experimental Approach.
 * This one actually interviewed students about the possible ways of plagiarism. :D
