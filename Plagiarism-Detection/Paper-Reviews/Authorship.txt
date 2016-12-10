@@ -59,6 +59,9 @@ Paper is split into two major sections:
 ## Counter Plagiarism detection software and counter counter plagiarism detection methods
   * Antiplagiatkiller - Software that uses algorithms to shuffle the words to break the fingerprints
   ** Signatures cant be generated for indexing or search, so plagiarism detection is difficult
+  ** e.g. white colored text instead of spaces, same graphical symbol, different languages
+  ** very hard to counter-counter this, as the software will have to be specific.
+  ** short paper, but interesting ideas
 
 
 Pattern of Plagiarism in Novice Students’ Generated Programs: An Experimental Approach.
