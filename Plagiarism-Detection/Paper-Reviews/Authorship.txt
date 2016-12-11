@@ -62,6 +62,10 @@ Paper is split into two major sections:
   ** e.g. white colored text instead of spaces, same graphical symbol, different languages
   ** very hard to counter-counter this, as the software will have to be specific.
   ** short paper, but interesting ideas
+## Ordinal measures in authorship identification
+  * pseudo-survey paper, comparison between approaches
+  * based on stylistic differences, lexical and syntactical
+  * function words and their similarity/distances
 
 
 Pattern of Plagiarism in Novice Students’ Generated Programs: An Experimental Approach.
